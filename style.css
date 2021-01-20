@@ -2,4 +2,25 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+
+img {
+  text-align: center;
+}
+
+a {
+  padding: 10px;
+}
+
+p#featured-property {
+  width: 800px;
+  height: 400px;
+}
+
+#details div {
+  float: left;
+  background-color: orange;
+  text-align: center;
+  width: 25%;
 }
